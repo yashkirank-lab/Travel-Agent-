@@ -1,0 +1,5 @@
+{
+  "name": "WanderLore",
+  "description": "AI-powered travel discovery app for finding hidden gems and local vibes.",
+  "requestFramePermissions": ["geolocation"]
+}
